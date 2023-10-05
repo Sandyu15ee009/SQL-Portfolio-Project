@@ -1,3 +1,3 @@
-# SQL-Portfolio-Project1
-Paypal Data Analysis
+# Credit Card Spending Habits Analysis(Paypal)
+Skills: Lead-Lag Window Functions, Aggregate Functions , Joins
 
